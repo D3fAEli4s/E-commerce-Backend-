@@ -52,29 +52,5 @@
     "name": "Bombachita de Nena",
     "price": 1800,
     "src": "/resources/img/product-images/bombachita1.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Bombachita de Nena",
-    "price": 1800,
-    "src": "/resources/img/product-images/bombachita1.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Bombachita de Nena",
-    "price": 1800,
-    "src": "/resources/img/product-images/bombachita1.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Bombachita de Nena",
-    "price": 1800,
-    "src": "/resources/img/product-images/bombachita1.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Bombachita de Nena",
-    "price": 1800,
-    "src": "/resources/img/product-images/bombachita1.jpg"
   }
 ]
